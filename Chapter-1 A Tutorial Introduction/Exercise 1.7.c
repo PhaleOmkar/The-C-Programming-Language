@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    printf("# Value of EOF is %d\n", EOF);
+    printf("\n# Value of EOF is %d\n", EOF);
 
     return 0;
 }
